@@ -5,9 +5,9 @@ A vite app to search and watch youtube videos.
 
 
 # Using the App
- -Search for vidoes using the searcg bar.
- -The app will search for all the relevant videos and display out the results.
- -Click on the vidoe that you want to watch
+ - Search for vidoes using the searcg bar.
+ - The app will search for all the relevant videos and display out the results.
+ - Click on the video that you want to watch
 
 # Api used
 
